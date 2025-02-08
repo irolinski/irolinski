@@ -10,7 +10,7 @@
 <h3>Currently open for work opportunities.</h3>
 
 <div>
-<h4>My preferred stack: &nbsp;  
+<h4>Preferred stack: &nbsp;  
 <img width="25px" src="https://github.com/user-attachments/assets/0cc9e476-5c92-43fc-a618-2f8d6ef2c723" />  
 <img width="25px" src="https://github.com/user-attachments/assets/def19d87-4858-468c-b82c-0d0514ab3d01" />
 <img width="25px" src="https://github.com/user-attachments/assets/54ce60e6-d141-46ed-af65-42ec28782ff8" />
