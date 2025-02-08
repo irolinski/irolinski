@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a full stack developer 👋</h3>
 
-<img width="250px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
+<img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
 
 
 
