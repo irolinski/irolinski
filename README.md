@@ -10,12 +10,14 @@
 <h3>Currently open for work opportunities.</h3>
 
 <div>
-<h4>Current stack: &nbsp;  <img width="25px" src="https://github.com/user-attachments/assets/0cc9e476-5c92-43fc-a618-2f8d6ef2c723" />
+<h4>My preferred stack: &nbsp;  
+<img width="25px" src="https://github.com/user-attachments/assets/0cc9e476-5c92-43fc-a618-2f8d6ef2c723" />  
+<img width="25px" src="https://github.com/user-attachments/assets/def19d87-4858-468c-b82c-0d0514ab3d01" />
 <img width="25px" src="https://github.com/user-attachments/assets/54ce60e6-d141-46ed-af65-42ec28782ff8" />
+<img width="25px" src="https://github.com/user-attachments/assets/c5525e3f-3797-4dac-951b-6e547827c3f6" />
 <img width="25px" src="https://github.com/user-attachments/assets/5d9a4aa1-5544-4ff0-9599-c8ddac5d9d4e" />
 <img width="25px" src="https://github.com/user-attachments/assets/0e185cdb-8f36-4fe6-81da-42f030813b0f" />
 <img width="25px" src="https://github.com/user-attachments/assets/b41df107-914f-4b11-bdab-17c1f7776240" />
-<img width="25px" src="https://github.com/user-attachments/assets/64aa40ad-3ffb-402c-b3a3-76811f8c7cf7" />
 </div>
 
 
