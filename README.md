@@ -23,7 +23,7 @@
 
 
 - 🔭 I’m currently working on: <b><a href="https://github.com/irolinski/Well_CBT">Well</a></b>
-- 🌱 I’m currently learning: <b>React Native</b>, <b>Java</b>
+- 🌱 I’m currently learning: <b>React Native</b>, <b>Laravel</b>
 - 📫 How to reach me: <b>ignacy.rolinski@gmail.com</b>
 - 🎨<a href="https://irolinskidev.pl"> <b>My portfolio site can be looked-up here!</b></a>
 
