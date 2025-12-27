@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, my name is Ignacy</b> 👋</h1>
-<h3 align="center">I'm a passionate full-stack dev</h3>
+<h3 align="center">I'm a Full-stack dev</h3>
 
 <img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
 
@@ -23,7 +23,6 @@
 
 
 - 🔭 I’m currently working on: <b><a href="https://github.com/irolinski/Well_CBT">Well</a></b>
-- 🌱 I’m currently learning: <b>React Native</b>, <b>Laravel</b>
 - 📫 How to reach me: <b>ignacy.rolinski@gmail.com</b>
 - 🎨<a href="https://irolinskidev.pl"> <b>My portfolio site can be looked-up here!</b></a>
 
