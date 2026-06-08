@@ -1,6 +1,6 @@
 # Ignacy Roliński
 
-<p align="left"> I am <strong>Software Engineer</strong> with 3 years of experience in commercial projects. I'm valued by my attention to detail, strong taste (both aesthetics-wise and code-wise) and good communication.
+<p align="left"> I am a <strong>Full-Stack Software Engineer</strong> with 3 years of experience in commercial projects. I'm valued for my attention to detail, strong sense of taste (both aesthetics-wise and code-wise) and good communication skills.
 </p>
 <img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
 
@@ -49,7 +49,9 @@ My portfolio site can be looked-up here: <a href="https://irdigital.pl">https://
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
+
 ![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![React Native Animated](https://img.shields.io/badge/React%20Native%20Animated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=fff)
 ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=fff)
@@ -72,12 +74,12 @@ My portfolio site can be looked-up here: <a href="https://irdigital.pl">https://
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
-### UI / UX
+### UI / UX:
 
 ![Figma](https://img.shields.io/badge/Figma-222222.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=001E36)
 
-### Cloud systems I've used:
+### Cloud:
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=fff)
