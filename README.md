@@ -1,11 +1,8 @@
 # Ignacy Roliński
 
-<img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
-
-<br/>
-<br/>
 <p align="left"> I am <strong>Software Engineer</strong> with 3 years of experience in commercial projects. I'm valued by my attention to detail, strong taste (both aesthetics-wise and code-wise) and good communication.
 </p>
+<img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
 
 ## 📫&nbsp; Contact:
 
