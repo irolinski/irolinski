@@ -1,7 +1,9 @@
 # Ignacy Roliński
 
-<!-- <img alt="Software Developer" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A630B0&center=false&vCenter=true&width=435&lines=Software+Developer"> -->
+<img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
 
+<br/>
+<br/>
 <p align="left"> I am <strong>Software Engineer</strong> with 3 years of experience in commercial projects. I'm valued by my attention to detail, strong taste (both aesthetics-wise and code-wise) and good communication.
 </p>
 
@@ -82,5 +84,3 @@ My portfolio site can be looked-up here: <a href="https://irdigital.pl">https://
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
 </br>
-
-<img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
