@@ -1,6 +1,6 @@
 # Ignacy Roliński
 
-<p align="left"> I am a <strong>Full-Stack Software Engineer</strong> with 3 years of experience in commercial projects. I'm valued for my attention to detail, strong sense of taste (both aesthetics-wise and code-wise) and good communication skills.
+<p align="left"> I am a <strong>Full-Stack Software Engineer</strong> with 3 years of experience. 
 </p>
 <img width="200px" src="https://github.com/user-attachments/assets/8a68deb0-ce45-49e3-afd1-394f7675fd9c" />
 
